@@ -1,15 +1,14 @@
-*** WSTÊPNY OPIS PROJEKTU ***
+*** WSTÄ˜PNY OPIS PROJEKTU ***
 
-Tematem mojego projektu bêdzie Architektura. Bêdzie mo¿na przegl¹daæ zawarte dane takie jak styl architektoniczny, budynki 
-danego stylu oraz wszelkie pozosta³e dodatkowe informacje(nazwa, rok, zdjêcie itp.). W bazie na pewno bêdzie relacja
-jeden-do-wielu (jeden styl - do - wielu budynków).
-Ka¿da osoba, która interesuje siê architektur¹ by³aby zainteresowana tak¹ aplikacj¹ i dziêki niej mog³aby pog³êbiaæ swoj¹ wiedzê
-i dowiadywaæ siê kolejnych nowych rzeczy na jej temat.
-Zaimplementowany bêdzie CRUD, dziêki czemu bêdzie mo¿liwe zarz¹dzanie nasz¹ baz¹ danych za poœrednictwem aplikacji. 
-W aplikacji bêdzie mo¿liwoœæ rejestracji oraz logowania. U¿ytkownicy bêd¹
-posiadali okreœlone role takie jak user, admin. 
-W swoim projekcie wykorzystam ASP.NET MVC. Znajd¹ siê tam na pewno jakieœ w³asne walidatory, zastosuje podstawowe helpery,
-widoki czêœciowe, layouty. Widoki chcia³abym napisaæ w Razor. Chcia³abym tak¿e w pisaniu kontrolerów skorzystaæ z LINQ.
+Tematem mojego projektu bÄ™dzie Architektura. BÄ™dzie moÅ¼na przeglÄ…daÄ‡ zawarte dane takie jak styl architektoniczny, budynki 
+danego stylu oraz wszelkie pozostaÅ‚e dodatkowe informacje(nazwa, rok, zdjÄ™cie itp.). W bazie na pewno bÄ™dzie relacja
+jeden-do-wielu (jeden styl - do - wielu budynkÃ³w).
+KaÅ¼da osoba, ktÃ³ra interesuje siÄ™ architekturÄ… byÅ‚aby zainteresowana takÄ… aplikacjÄ… i dziÄ™ki niej mogÅ‚aby pogÅ‚Ä™biaÄ‡ swojÄ… wiedzÄ™
+i dowiadywaÄ‡ siÄ™ kolejnych nowych rzeczy na jej temat.
+Zaimplementowany bÄ™dzie CRUD, dziÄ™ki czemu bÄ™dzie moÅ¼liwe zarzÄ…dzanie naszÄ… bazÄ… danych za poÅ›rednictwem aplikacji. 
+W aplikacji bÄ™dzie moÅ¼liwoÅ›Ä‡ rejestracji oraz logowania. UÅ¼ytkownicy bÄ™dÄ… posiadali okreÅ›lone role takie jak user, admin. 
+W swoim projekcie wykorzystam ASP.NET MVC. ZnajdÄ… siÄ™ tam na pewno jakieÅ› wÅ‚asne walidatory, zastosuje podstawowe helpery,
+widoki czÄ™Å›ciowe, layouty. Widoki chciaÅ‚abym napisaÄ‡ w Razor. ChciaÅ‚abym takÅ¼e w pisaniu kontrolerÃ³w skorzystaÄ‡ z LINQ.
 
 
-Autor : Martyna Pyszyñska 
+Autor : Martyna PyszyÅ„ska 
