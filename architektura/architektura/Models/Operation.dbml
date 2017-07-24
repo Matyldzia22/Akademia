@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="aspnet-architektura-20170201082245" Class="OperationDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-architektura-20170201082245.mdf;Initial Catalog=aspnet-architektura-20170201082245;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DefaultConnection" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.BUILD" Member="BUILDs">
+    <Type Name="BUILD">
+      <Column Name="idBUILD" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="buildname" Type="System.String" DbType="NChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="city" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="country" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="idSTYL" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="STYL_BUILD" Member="STYL" ThisKey="idSTYL" OtherKey="idSTYL" Type="STYL" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.STYL" Member="STYLs">
+    <Type Name="STYL">
+      <Column Name="idSTYL" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="age" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="picture" Type="System.String" DbType="VarChar(1000)" CanBeNull="true" />
+      <Association Name="STYL_BUILD" Member="BUILDs" ThisKey="idSTYL" OtherKey="idSTYL" Type="BUILD" />
+    </Type>
+  </Table>
+  <Function Name="dbo.DeleteSTYL" Method="DeleteSTYL">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

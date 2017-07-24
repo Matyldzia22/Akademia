@@ -1,0 +1,53 @@
+﻿@model architektura.Models.STYL
+@{
+    ViewBag.Title = "Details";
+}
+@using architektura.Models;
+@{ STYL styl = STYLService.getSTYLById(Model.idSTYL); }
+@{ List<BUILD> buildList = BUILDService.getAllBUILDsFromSTYL(styl.idSTYL);}
+<h2>@styl.name</h2>
+<div class="container marketing">
+    <hr class="featurette-divider">
+    <div class="row featurette">
+        <div class="col-md-7">
+            <ul class="list-group">
+                <li class="list-group-item">Name: @styl.name</li>
+                <li class="list-group-item">Age: @styl.age</li>
+
+            </ul>
+            @Html.ActionLink("Edit", "Edit", "STYL", new { id = styl.idSTYL }, new { @class = "btn btn-info" })
+            @Html.ActionLink("Delete", "Delete", "STYL", new { id = styl.idSTYL }, new { @class = "btn btn-danger" })
+
+            <h3>Builds</h3>
+
+            @foreach (var item in buildList)
+            {
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        @item.buildname - @item.city - @item.country |
+                        @Html.ActionLink("Edit", "Edit", "BUILD", new { id = item.idBUILD }, new { @class = "glyphicon glyphicon-pencil" }) |
+                        @Html.ActionLink("Delete", "Delete", "BUILD", new { id = item.idBUILD }, new { @class = "glyphicon glyphicon-remove" })
+                    </li>
+                </ul>
+            }
+            @Html.ActionLink("Add", "Create", "BUILD", new { idSTYL = styl.idSTYL }, new { @class = "glyphicon glyphicon-plus" })
+
+        </div>
+        <div class="col-md-5">
+            @try
+            {
+                @MyHelpers.MyHelpers.MyHelpers.AddPicture(Url.Content(styl.picture), "Placeholder Image", 200, "holder.js/200x200/auto")
+
+            }
+            catch
+            {
+                @MyHelpers.MyHelpers.MyHelpers.AddPicture("http://www.cerbol.com/gfx/brak.gif", "Placeholder Image", 200, "holder.js/200x200/auto")
+            }
+
+        </div>
+    </div>
+    <hr class="featurette-divider">
+</div>
+<p>
+    @Html.ActionLink("Back to Index", "Index", "STYL")
+</p>

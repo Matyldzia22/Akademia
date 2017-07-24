@@ -1,0 +1,55 @@
+﻿@model IEnumerable<architektura.Models.STYL>
+
+@{
+    ViewBag.Title = "Index";
+}
+@using architektura.Models;
+
+<h2>Our styles</h2>
+
+<div class="container marketing">
+    <hr class="featurette-divider">
+    @{ int counter = 1;}
+    @if (STYLService.GetSizeSTYLList() == 0)
+    {
+        <h2>There is no Styles ! Add new style :</h2>
+        @Html.ActionLink("Add new STYLE", "Create", "STYLE", null, new { @class = "btn btn-default" })
+    }
+
+    @foreach (var item in STYLService.getAllSTYLs())
+    {
+        <div class="row featurette">
+            <div class="col-md-7">
+
+
+
+                @Html.ActionLink(counter + ". " + item.name, "Details", "STYL", new { id = item.idSTYL }, new { @class = "h2" })
+
+                <ul class="list-group">
+                    <li class="list-group-item">age: @item.age</li>
+
+                </ul>
+                @Html.ActionLink("Details", "Details", "STYL", new { id = item.idSTYL }, new { @class = "btn btn-default" })
+                @Html.ActionLink("Edit", "Edit", "STYL", new { id = item.idSTYL }, new { @class = "btn btn-info" })
+                @Html.ActionLink("Delete", "Delete", "STYL", new { id = item.idSTYL }, new { @class = "btn btn-danger" })
+
+            </div>
+            <div class="col-md-5">
+                @try
+                {
+                    @MyHelpers.MyHelpers.MyHelpers.AddPicture(Url.Content(item.picture), "Placeholder Image", 200, "holder.js/200x200/auto")
+
+                }
+                catch
+                {
+                    @MyHelpers.MyHelpers.MyHelpers.AddPicture("http://www.cerbol.com/gfx/brak.gif", "Placeholder Image", 200, "holder.js/200x200/auto")
+                }
+
+            </div>
+
+        </div>
+        <hr class="featurette-divider">
+        counter++;
+    }
+</div>
+

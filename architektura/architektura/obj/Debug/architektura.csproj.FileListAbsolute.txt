@@ -1,0 +1,164 @@
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\ApplicationInsights.config
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\csc.exe
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\System.Collections.Immutable.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\vbc.exe
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\VBCSCompiler.exe
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\roslyn\VBCSCompiler.exe.config
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\architektura.dll.config
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\architektura.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\architektura.pdb
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Antlr3.Runtime.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\EntityFramework.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\EntityFramework.SqlServer.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.Web.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.WindowsServer.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.ApplicationInsights.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Google.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Web.Infrastructure.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Newtonsoft.Json.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Owin.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Helpers.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Mvc.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Optimization.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Razor.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.WebPages.Deployment.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.WebPages.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.WebPages.Razor.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\WebGrease.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.Web.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AI.WindowsServer.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.ApplicationInsights.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Helpers.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Mvc.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Optimization.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.Razor.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.WebPages.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.WebPages.Deployment.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\System.Web.WebPages.Razor.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Antlr3.Runtime.pdb
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Newtonsoft.Json.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\EntityFramework.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\EntityFramework.SqlServer.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Google.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\obj\Debug\architektura.csprojResolveAssemblyReference.cache
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\obj\Debug\architektura.dll
+c:\users\adm\documents\visual studio 2015\Projects\architektura\architektura\obj\Debug\architektura.pdb
+C:\Users\Martynka\Downloads\architektura\architektura\bin\ApplicationInsights.config
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\csc.exe
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\vbc.exe
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\VBCSCompiler.exe
+C:\Users\Martynka\Downloads\architektura\architektura\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Martynka\Downloads\architektura\architektura\bin\architektura.dll.config
+C:\Users\Martynka\Downloads\architektura\architektura\bin\architektura.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\architektura.pdb
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Antlr3.Runtime.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\EntityFramework.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\EntityFramework.SqlServer.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.Web.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Newtonsoft.Json.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Owin.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Helpers.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Mvc.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Optimization.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Razor.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.WebPages.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.WebPages.Razor.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\WebGrease.dll
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.Web.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Helpers.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Mvc.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Optimization.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.Razor.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.WebPages.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\System.Web.WebPages.Razor.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Antlr3.Runtime.pdb
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Newtonsoft.Json.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\EntityFramework.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\EntityFramework.SqlServer.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Martynka\Downloads\architektura\architektura\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Martynka\Downloads\architektura\architektura\obj\Debug\architektura.csprojResolveAssemblyReference.cache
+C:\Users\Martynka\Downloads\architektura\architektura\obj\Debug\architektura.dll
+C:\Users\Martynka\Downloads\architektura\architektura\obj\Debug\architektura.pdb

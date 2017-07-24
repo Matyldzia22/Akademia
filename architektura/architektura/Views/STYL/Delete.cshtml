@@ -1,0 +1,51 @@
+﻿@model architektura.Models.STYL
+@{
+    ViewBag.Title = "Delete";
+}
+@using architektura.Models;
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>STYL: @Model.name</h4>
+    <div class="container marketing">
+        <hr class="featurette-divider">
+        <div class="row featurette">
+            <div class="col-md-7">
+                <ul class="list-group">
+                    <li class="list-group-item">Name: @Model.name</li>
+                    <li class="list-group-item">age: @Model.age</li>
+
+                </ul>
+
+                <h3>Builds</h3>
+                @foreach (var item in BUILDService.getAllBUILDsFromSTYL(Model.idSTYL))
+                {
+                    <ul class="list-group">
+                        <li class="list-group-item">@item.buildname - @item.city< - @item.country/li>
+                    </ul>
+                }
+            </div>
+            <div class="col-md-5">
+                @try
+                {
+                    @MyHelpers.MyHelpers.MyHelpers.AddPicture(Url.Content(Model.picture), "Placeholder Image", 400, "holder.js/400x400/auto")
+
+                }
+                catch
+                {
+                    @MyHelpers.MyHelpers.MyHelpers.AddPicture("http://www.cerbol.com/gfx/brak.gif", "Placeholder Image", 400, "holder.js/400x400/auto")
+                }
+
+            </div>
+        </div>
+    </div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to Index", "Index", "STYL")
+        </div>
+    }
+</div>

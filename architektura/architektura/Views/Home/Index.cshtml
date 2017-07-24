@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container-fluid full">
+
+    <div class="jumbotron">
+        <h2>Do you love architecture ?<br />Learn more about it!</h2>
+        <p>Our styles</p>
+        @Html.ActionLink("Click Here", "Index", "STYL", null, new { @class = "btn btn-info" })
+
+        <h2>Recently added</h2>
+        <p class="lead">@Html.Partial("~/Views/STYL/Last3.cshtml")</p>
+        
+
+
+    </div>
+</div>

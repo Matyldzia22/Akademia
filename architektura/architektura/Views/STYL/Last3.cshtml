@@ -1,0 +1,36 @@
+﻿@model architektura.Models.STYL
+@using architektura.Models
+
+<hr class="featurette-divider" style="border-color:black;">
+
+@foreach (var item in STYLService.last3Styl())
+{
+    <div class="row featurette">
+        <div class="col-md-7">
+
+            <h2>
+                @Html.ActionLink("" + item.name + "", "Details", "STYL", new { id = item.idSTYL }, null)
+            </h2>
+            <div class="left">
+                <ul class="list-inline">
+                    <li>
+                        @try
+                {
+                            @MyHelpers.MyHelpers.MyHelpers.AddPicture(Url.Content(item.picture), "Placeholder Image", 150, "holder.js/150x150/auto")
+
+                        }
+                        catch
+                        {
+                            @MyHelpers.MyHelpers.MyHelpers.AddPicture("http://www.cerbol.com/gfx/brak.gif", "Placeholder Image", 150, "holder.js/150x150/auto")
+                        }
+                    </li>
+                    <ul class="list-group">
+                        <li class="list-group-item" style="width:160px;">Age : @item.age</li>
+
+                    </ul>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+}
