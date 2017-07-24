@@ -1,0 +1,17 @@
+*** KOÑCOWY OPIS PROJEKTU ***
+
+LINK DO FILMU : https://youtu.be/p7Symx0WbUM (niestety nie wiem dlaczego ale obraz jest pokazywany z lekkim opóŸnieniem
+ale mam nadziejê, ¿e wszystko bêdzie zrozumia³e). Wszystko zosta³o tak¿e dok³adnie opisane poni¿ej.
+
+Tematem mojego projektu jest Architektura. Mo¿na przegl¹daæ style architektoniczne oraz budynki poszczególnych styli.
+(Jeden styl mo¿e mieæ wiele budynków ). Zaimplementowany zosta³ CRUD zarówno dla stylu jak i poszczególnych budynków. W aplikacji
+mo¿na siê zarejestrowaæ oraz zalogowaæ jeœli u¿ytkownik posiada ju¿ swoje konto. U¿ytkownik mo¿e posiadaæ okreœlone role.
+W kodzie dla roli user zosta³a nadana mo¿liwoœæ usuwania innym u¿ytkownikom wybranej roli, co zosta³o zaprezentowane na filmie.
+W projekcie wykorzysta³am ASP.NET MVC. Znalaz³ siê w³asny walidator, który sprawdza czy wiek stylu jest poprawny. Helper zosta³ u¿yty
+w pliku StylViewModels. Stworzy³am tak¿e w³asny helper, który umo¿liwia dodawanie zdjêæ z internetu w postaci linku i nastêpnie
+wyœwietlenie tego zdjêcia na stronie w postaci obrazka. Korzystam z niego np w pliku Views/STYL/Edit. W swojej aplikacji
+mam tak¿e widok czêœciowy, który pokazuje 3 ostatnio dodane style. Widok czêœciowy zosta³ dodany w pliku Views/Home/Index.
+Widoki zosta³y napisane w Razor, który pozwala na oddzielenie kody HTML od kodu aplikacji, natomiast w kontrolerach u¿y³am
+LINQ, który pozwala na zadawanie zapytañ, jest bardzo podobny do SQL, u¿yte jego elementy to np. where, select. 
+
+Autor : Martyna Pyszyñska 
